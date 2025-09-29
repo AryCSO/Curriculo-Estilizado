@@ -1,1 +1,3 @@
-# P-gina-de-curr-culo-estilizada
+# Página de curriculo Estilizada
+
+by.: Aryel
