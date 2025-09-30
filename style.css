@@ -54,7 +54,7 @@ button:hover {
 
 .fl2 {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1px;
     top: 0;
     left: 0;
     width: 100vw; 
@@ -76,34 +76,49 @@ button:hover {
 }
 
 .fl5 {
-    height: 600px;
     top: 0;
     left: 0;
     width: 100vw; 
     height: 100vh;
 }
 
+.ad {
+    height: 210px;
+}
+ 
 .nt1 {
     text-align: right;
 }
 
 .nt3 {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 100px 1fr 100px 1fr 100px;
     height: 70px;
     margin-right: 10px;
 }
 
 .nt7 {
-    height: 300px;
+    height: 100px;
 }
 
 .nt8 {
+    height: 400px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+.nt9 {
+    display: grid;
+    grid-template-columns:1fr 1fr;
+}
+
+.nt10 {
+    text-decoration: none;
+}
+
 .bis1 {
+    font-size: 30px;
+    font-weight: 700;
     text-align: right;
     width: 680px;
     height: 110px;
